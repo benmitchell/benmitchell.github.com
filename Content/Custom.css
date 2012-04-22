@@ -1,0 +1,18 @@
+﻿body { background-color:#89D6A2; }
+#mainContent { background-color:#00A388; color:#FFFFB8; }
+#pageHeader { border-bottom: 3px solid #FF6138; margin-left:-10px; padding: 5px 20px 0 20px;}
+#content { border-left: 3px solid #FF6138; }
+#footer { border-top: 3px solid #FF6138; }
+ul#menu li a { background-color: #BEEB9F; color:#FF6138; }
+ul#menu li a:hover { background-color: #79BD8F; color:#FFFFB8; }
+ul#menu li a:active { background-color: #79BD8F; }
+ul#menu li.selected a { background-color: #79BD8F; color: #FFFFB8; }
+#main { background-color:#FFFFB8; color:#00A388; }
+.title { font-size:32px; }
+.subtitle { padding-left:40px; font-size:12px;  }
+.inline { display:inline; float:left; }
+.logopadded { margin-top:20px; }
+#HeaderLink { background-image:url('Images/Award.png'); background-repeat:no-repeat;
+             width:120px; height: 120px; display:block; text-indent:-9999px; }
+.SocialMediaLink { background-image:url('images/UsefulSocialIcons32.png'); background-repeat:no-repeat; 
+                   display:inline-block; width:32px; height:32px; text-indent:9999px; }
